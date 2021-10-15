@@ -1,0 +1,16 @@
+{
+  "name": "deactive",
+  "version": "1.0.0",
+  "description": "The simplest Reactive Observable for all",
+  "main": "main.js",
+  "type": "main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactive",
+    "observable"
+  ],
+  "author": "Yukino Song",
+  "license": "MIT"
+}
