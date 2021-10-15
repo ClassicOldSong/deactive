@@ -1,6 +1,6 @@
 {
   "name": "deactive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simplest Reactive Observable for all",
   "main": "main.js",
   "type": "main.d.ts",
